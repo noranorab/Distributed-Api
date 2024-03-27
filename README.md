@@ -65,8 +65,7 @@ This project needs the following dependencies:
 
 ## Result
 Here some screen shots:
-<img src="Desktop\testCase.png"/>
-<img src="Desktop\runningapp.png"/>
+![runningapp](https://github.com/noranorab/Distributed-Api/assets/117985303/66fde19f-afb4-4fad-8bb5-cf0d137522fb)
 
-
+![testCase](https://github.com/noranorab/Distributed-Api/assets/117985303/8dfdc947-375d-4b04-aad2-6dd92333c924)
 
